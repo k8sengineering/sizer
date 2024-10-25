@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: react-frontend
-        image: your-registry/react-frontend:latest
+        image: bruceejacobs/react-frontend:latest
         ports:
         - containerPort: 3000
